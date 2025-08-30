@@ -1,2 +1,2 @@
-"# My Project" 
-"Hello World feature added" 
+# My Project
+Hello World feature added
